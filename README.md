@@ -11,9 +11,9 @@
 3. 
 
 ### Group members and zIDs
-| Name                    | zID       | Role                 |
-|-------------------------|-----------|----------------------|
-| Kai Rouse              | z5259264  | BA & Market researcher |
-| Zerui (Geoffrey) Cai   | z3458966  |                      |
-| Member 4               | zID4      | role                 |
-| Member 5               | zID5      | role                 |
+| Name                    | zID       | Role                   |
+|-------------------------|-----------|------------------------|
+| Kai Rouse               | z5259264  | BA & Market researcher |
+| Zerui (Geoffrey) Cai    | z3458966  |                        |
+| Carlo Arceo             | z5455874  |                        |
+| Jacob Richards          | z5378072  |                        |
