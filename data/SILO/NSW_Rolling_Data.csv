@@ -1,3 +1,4 @@
+DATETIME,TOTALDEMAND,TEMPERATURE,Rain,Evap,Radn,VP,RH,bushfire,flood,temp_change,high_temp_change,humid_change,high_humid_change,rain_change,high_rain_change,high_humid_past_week,high_rain_past_week,high_temp_past_week
 2010-01-01,7801.35,25.09,0.2,5.2,14.6,23.1,76.35,0.0,0.0,0.07000000000000028,0,6.599999999999994,0,0.2,0,0,0,0
 2010-01-02,8017.46,24.77,0.0,5.9,18.4,22.0,67.8,0.0,0.0,-0.3200000000000003,0,-8.549999999999997,0,-0.2,0,0,0,0
 2010-01-03,7399.9,19.43,15.2,1.9,7.3,19.1,83.25,0.0,0.0,-5.34,1,15.450000000000003,1,15.2,1,0,0,0
