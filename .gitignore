@@ -1,2 +1,5 @@
 extracted_data/
 forecastdemand_nsw.csv.zip
+data/SILO/temperature_qld.csv
+data/SILO/forecastdemand_qld.csv
+data/SILO/totaldemand_qld.csv
