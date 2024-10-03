@@ -219,4 +219,3 @@ class LSSVC():
             lssvc.y_labels = np.array(model_json['parameters']['y_labels'])
 
         return lssvc
-        
