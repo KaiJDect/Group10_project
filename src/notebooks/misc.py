@@ -8,12 +8,6 @@ rhLagSteps = [15, 26]
 
 
 # TODO:
-# cyclical transformations for datetime
-# data versioning
-# training with rollingWindowDataSets
-# fix time axis labelling
-# perform training for both nsw and qld
-# model post tuning analysis
 #
 #
 #
