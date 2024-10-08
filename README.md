@@ -8,12 +8,12 @@
     `
 
 2. Run `extract_data.py` to create the extracted_data folder and populate it with required data
-3. 
+3. For LSSVM notebook 'Geo_LSSVMModelling' please ensure the project is under the 'Group10_project' folder.
 
 ### Group members and zIDs
 | Name                    | zID       | Role                   |
 |-------------------------|-----------|------------------------|
-| Kai Rouse               | z5259264  | BA & Market researcher |
-| Zerui (Geoffrey) Cai    | z3458966  |                        |
-| Carlo Arceo             | z5455874  |                        |
-| Jacob Richards          | z5378072  |                        |
+| Kai Rouse               | z5259264  | SARIMA modeling |
+| Zerui (Geoffrey) Cai    | z3458966  | LSSVM modeling  |
+| Carlo Arceo             | z5455874  | Exploratory data analysis|
+| Jacob Richards          | z5378072  | Literature reviews  |
